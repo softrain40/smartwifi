@@ -1,0 +1,16 @@
+# built application files
+*.apk
+*.ap_
+
+# directory cache file
+.DS_Store
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
